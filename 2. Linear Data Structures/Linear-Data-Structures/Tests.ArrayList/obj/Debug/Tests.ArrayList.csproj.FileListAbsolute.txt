@@ -1,0 +1,9 @@
+E:\Softuni\Data Structures\2. Linear Data Structures\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Tests.ArrayList.dll
+E:\Softuni\Data Structures\2. Linear Data Structures\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Tests.ArrayList.pdb
+E:\Softuni\Data Structures\2. Linear Data Structures\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Lists.exe
+E:\Softuni\Data Structures\2. Linear Data Structures\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Softuni\Data Structures\2. Linear Data Structures\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Lists.pdb
+E:\Softuni\Data Structures\2. Linear Data Structures\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Lists.exe.config
+E:\Softuni\Data Structures\2. Linear Data Structures\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.csprojResolveAssemblyReference.cache
+E:\Softuni\Data Structures\2. Linear Data Structures\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.dll
+E:\Softuni\Data Structures\2. Linear Data Structures\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.pdb
