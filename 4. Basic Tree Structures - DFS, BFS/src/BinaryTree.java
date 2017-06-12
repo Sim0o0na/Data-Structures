@@ -44,6 +44,8 @@ public class BinaryTree<T> {
         }
     }
 
+
+
     public void eachPostOrder(Consumer<T> consumer) {
         if(this.left!=null){
             this.left.eachPostOrder(consumer);
