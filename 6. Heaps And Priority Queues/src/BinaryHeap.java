@@ -71,9 +71,10 @@ public class BinaryHeap<T extends Comparable<T>> {
         T result = this.heap.get(0);
         swapElements(0, this.heap.size()-1);
         this.heap.remove(this.size-1);
-        this.heapifyDown(0);
+        this.size--;
+        if(size!=1){
+            this.heapifyDown(0);
+        }
         return result;
     }
-
-
 }
